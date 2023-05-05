@@ -34,6 +34,28 @@ In this lesson, we'll journey through Python's various **data types**! We'll cov
 - Sets :busts_in_silhouette:
 - Dictionaries :book:
 
+
+## 📖 [**Functions, File I/O, Modules, and Packagess**](https://github.com/Fuenfgeld/PythonIntro/blob/main/FunctionsFileHandelingModulesPackages.ipynb)
+
+### 1. 🏥💉 [Functions](https://colab.research.google.com/github/Fuenfgeld/PythonIntro/blob/main/FunctionsFileHandelingModulesPackages.ipynb#scrollTo=GC5yz3ND17iS)
+   - 📝 Defining Functions
+   - 📌 Function Parameters
+   - 🔄 Default Values for Parameters
+   - 🔢 Variable-length Arguments (*args and **kwargs)
+   - 🧰 Built-in Functions
+   - 🎯 Exercises (Easy, Medium, Hard)
+### 2. 📁💾 [File I/O](https://colab.research.google.com/github/Fuenfgeld/PythonIntro/blob/main/FunctionsFileHandelingModulesPackages.ipynb#scrollTo=AE0vjqU7jXt-)
+   - 🚀 Mounting Google Drive
+   - 🧭 Navigating Google Drive
+   - 📖 Opening, Reading, Writing, and Closing Files
+### 3. 📦🔧 [Modules and Packages](https://colab.research.google.com/github/Fuenfgeld/PythonIntro/blob/main/FunctionsFileHandelingModulesPackages.ipynb#scrollTo=NLql2R8am5Uq)
+   - 🧩 Modules in Python
+   - 📥 Importing Modules
+   - 📚 Creating Custom Packages
+   - 🛠️ Using Package Managers (pip)
+
+
+
 With healthcare examples, we'll demonstrate how to use each data type effectively, like managing patient data or analyzing health-related stats. :bar_chart:
 
 :sparkles: Throughout the course, we'll provide **fun examples** and **exciting exercises** to help you become a Python healthcare pro! :rocket: So get ready to dive into Python and make an impact in healthcare! :stethoscope:
